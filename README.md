@@ -10,7 +10,7 @@ I’m an Electronics Engineer with a deep curiosity for data and a strong drive 
 | 🔍 **Churn Prediction using ML** | Predicting customer churn through EDA and ML models (XGBoost, CatBoost). | [Repo](https://github.com/D-Acho/ChurnPredictionML.git) |
 | 📊 **Intelligent Prediction and Segmentation for Insurance with Machine Learning** | Machine learning pipeline for predicting insurance claims and segmenting customer types using clustering and supervised models. | [Repo](https://github.com/D-Acho/PredictionSegmentationML.git) |
 | 🧮 **Car Price Predictor** | Model designed to determine car prices based on attributes like brand, mileage, fuel type, and more using regression techniques. | [Repo](https://github.com/D-Acho/CarPricePredictor.git) |
-| 🚖 **Taxi Orders Predictor** | Forecasting taxi demand based on time, location, and traffic data using time series analysis and regression algorithms. | [Repo](https://github.com/D-Acho/Taxi_Orders_Predictor.git) |
+| 🚖 **Taxi Orders Predictor** | Forecasting taxi demand based on time, location, and traffic data using time series analysis and regression algorithms. | [Repo](https://github.com/D-Acho/TaxiOrdersPredictor.git) |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/diana-acho) 
