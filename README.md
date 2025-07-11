@@ -20,15 +20,6 @@
 # 💫 About Me:
 I’m an Electronics Engineer with a deep curiosity for data and a strong drive to become a Data Scientist.<br><br>🌱 Currently learning machine learning, statistics, and tools like Python, Pandas, and Scikit-learn to uncover meaningful insights from complex datasets.<br><br>🚀 I'm passionate about transforming raw data into actionable solutions and intuitive visualizations.<br><br>🤝 Looking to collaborate on data science projects that make a real-world impact—from predictive analytics to interactive dashboards.<br><br>📫 Let’s connect and build something insightful together!
 
-## 🌟 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 🔍 **Churn Prediction using ML** | Predicting customer churn through EDA and ML models (XGBoost, CatBoost). | [Repo](https://github.com/D-Acho/ChurnPredictionML.git) |
-| 📊 **Intelligent Prediction and Segmentation for Insurance with Machine Learning** | Machine learning pipeline for predicting insurance claims and segmenting customer types using clustering and supervised models. | [Repo](https://github.com/D-Acho/PredictionSegmentationML.git) |
-| 🧮 **Car Price Predictor** | Model designed to determine car prices based on attributes like brand, mileage, fuel type, and more using regression techniques. | [Repo](https://github.com/D-Acho/CarPricePredictor.git) |
-| 🚖 **Taxi Orders Predictor** | Forecasting taxi demand based on time, location, and traffic data using time series analysis and regression algorithms. | [Repo](https://github.com/D-Acho/TaxiOrdersPredictor.git) |
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/diana-acho) 
 
